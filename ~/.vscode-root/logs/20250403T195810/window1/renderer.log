@@ -1,0 +1,11 @@
+2025-04-03 19:58:12.333 [info] Started local extension host with pid 27851.
+2025-04-03 19:58:13.154 [info] Settings Sync: Account status changed from uninitialized to unavailable
+2025-04-03 19:58:13.413 [error] [EQuimper.react-native-react-redux]: Unknown language in `contributes.react-native-react-redux.language`. Provided value: jsx
+2025-04-03 19:58:13.413 [error] [Zarifprogrammer.tailwind-snippets]: Unknown language in `contributes.tailwind-snippets.language`. Provided value: vue
+2025-04-03 19:58:13.413 [error] [Zarifprogrammer.tailwind-snippets]: Unknown language in `contributes.tailwind-snippets.language`. Provided value: vue
+2025-04-03 19:58:13.796 [error] [Extension Host] (node:27851) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(Use `exe --trace-deprecation ...` to show where the warning was created)
+2025-04-03 19:58:15.457 [info] [perf] Render performance baseline is 137ms
+2025-04-03 19:58:15.514 [error] [EQuimper.react-native-react-redux]: Unknown language in `contributes.react-native-react-redux.language`. Provided value: jsx
+2025-04-03 19:58:15.514 [error] [Zarifprogrammer.tailwind-snippets]: Unknown language in `contributes.tailwind-snippets.language`. Provided value: vue
+2025-04-03 19:58:15.515 [error] [Zarifprogrammer.tailwind-snippets]: Unknown language in `contributes.tailwind-snippets.language`. Provided value: vue
